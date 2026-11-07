@@ -1,6 +1,8 @@
 # Pet Health Blog
 
-This is a pet health blog I put together about 2 years ago while I was doing my A/Ls. It's a static site: plain HTML and CSS, nothing fancy. I built it as a side project to learn web development basics, and it ended up covering the stuff I actually care about when it comes to keeping pets healthy: nutrition, general health tips, mental wellbeing, and a way for people to get in touch.
+**Live site:** https://gavpez7.github.io/Pet-Health-Blog/
+
+This is a pet health blog I put together about in 2024 while I was doing my A/Ls. It was my entry for the **Metamorphix** competition organized by Wesley College, and it won me the **championship**. It's a static site: plain HTML and CSS, nothing fancy. I built it as a side project to learn web development basics, and it ended up covering the stuff I actually care about when it comes to keeping pets healthy: nutrition, general health tips, mental wellbeing, and a way for people to get in touch.
 
 Looking back at it now, there's definitely stuff I'd do differently, but it was a solid learning experience and I'm still kinda proud of how it turned out.
 
@@ -18,6 +20,7 @@ There's also a "follow along" section on every page with links to social media, 
 
 ```
 pet-health-blog/
+├── index.html
 ├── html/
 │   ├── Home Page.html
 │   ├── Pet Health.html
